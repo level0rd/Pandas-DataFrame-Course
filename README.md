@@ -1,2 +1,1 @@
-# Pandas-DataFrame-Course
-Pandas DataFrame course.
+# Pandas DataFrame Course
