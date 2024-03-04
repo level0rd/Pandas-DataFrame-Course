@@ -1,1 +1,1 @@
-# Pandas DataFrame Course
+# Pandas dataframe course
